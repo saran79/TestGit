@@ -1,0 +1,46 @@
+POSTMAN
+-----------
+PMAK-5f5cd8b90e1acd003864d492-192043738aa31cdfec1462bddd922f83d9
+
+
+DROPBOX
+--------------
+sl.AhwGuUhCfR9grqVR0GdSatpXe8jwuBpO7BiswHcDFa4XD1aslFGYgKCubU5GBnGMEGL5Lylmcz4yY4qG9lGqw-aZp0ueLNE8R7xFxf6zNPNDgShLv3pDhvR69c6HUsMK9Ppyrho
+
+survey Monkey
+----------------
+
+t.NJT.hOqsJ5HYU0GW487d6UVqHO.KluF1iWczB92plxpuU3-h83imd15JI8TXZjMVwyBHPrYswHLExM-LQnQMSflmiFQixzv1bFlQCuShz32l9IzKjvq2KXXozvjkHf
+
+ Courier
+----------------
+
+889H7DYEFMM5YSKZW3DQHTV6DMEP
+
+Receiptant Id
+-------------
+
+c076a6c6-bd4c-424e-b277-1355cff31809
+
+Notification Id
+------------------
+
+PCRC5V4F8XMW3AQND33ZE8QBRPPA
+
+
+1) Make PATCH request
+2) Add Header Request
+3) Add Path Variables
+4) Add Body Request
+5) Send Request
+
+1)https://api.trycourier.app/profiles/:recipient_id
+2)content-type : application/json
+authorisation : 889H7DYEFMM5YSKZW3DQHTV6DMEP
+3) receiptant id: c076a6c6-bd4c-424e-b277-1355cff31809
+4){
+    "profile": {}
+}
+
+
+
