@@ -1,0 +1,18 @@
+
+my work this week 2,
+
+1) validated the check list for the Mobile App testing
+    BitBar(smartbear, cloud based mobile app testing platform)
+2) Used XAMMP to create,Update, retreive and Delete queries + w3schools SQL query Practice and few Test cases update in JIRA.
+3) USed POSTMAN to Validate GET, POST, PUT, PATCH and DELETE requests using 9 different APIs completed 43 Requests and also learnt about different Authentications and bit of JSON plus how to use the Tests tab to validate the RESPONSes and Updated in JIRA.
+4) Features from Previous week updated in JIRA.
+          
+
+/html/body/header/div/section/section[2]/ul/li[1]/a
+/html/body/header/div/section/section[2]/ul/li[1]/a
+
+//a[contains(text(),'My Account')]
+
+ H$vTrW6c
+
+h4@bUU+t
